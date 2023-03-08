@@ -1,4 +1,4 @@
-# Responsive Webpage Design
+# connect the ALBY
 I developed a design in figma for the connection design, which you can see in the link below. 
 
 File on Figma: https://www.figma.com/proto/qdCQDS8mBHbXLF9LfTwgkY/Connect-to-ALBY?node-id=1-14&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=1%3A14
